@@ -1,0 +1,20 @@
+{
+    "encomendas_web":[        
+    { 
+        "nome": "Isa",
+        "produto": "Brinco Gold",
+        "qtde": "1",
+        "valor-unitario": 1000,
+        "valor-total": 0
+    },
+
+    { 
+        "nome": "Debs",
+        "produto": "Anel Aurora",
+        "qtde": "2",
+        "valor-unitario": 800,
+        "valor-total": 0
+    }
+
+    ]
+}
