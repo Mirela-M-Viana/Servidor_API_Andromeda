@@ -3,17 +3,17 @@
     { 
         "nome": "Isa",
         "produto": "Brinco Gold",
-        "qtde": "1",
-        "valor-unitario": 1000,
-        "valor-total": 0
+        "qtde": 1,
+        "valorUnitario": 1000,
+        "valorTotal": 0
     },
 
     { 
         "nome": "Debs",
         "produto": "Anel Aurora",
-        "qtde": "2",
-        "valor-unitario": 800,
-        "valor-total": 0
+        "qtde": 2,
+        "valorUnitario": 800,
+        "valorTotal": 0
     }
 
     ]
